@@ -20,9 +20,9 @@ Este es un apartado para el repositorio del Tenpo Challenge, en el cual podrás 
 Install my-project with npm
 
 ```bash
-  git clone url
+  git clone https://github.com/Harrisonlchr/tenpo-challenge.git
 
-  cd
+  cd tenpo-challenge
 
   npm install
 
